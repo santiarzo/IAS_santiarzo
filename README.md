@@ -4,7 +4,7 @@ IAS project
 
 Raport
 
-nr indeksów członków grupy: 149011
+*nr indeksów członków grupy:* 149011
 
 użyte technologie/ języki programowania: PHP/Laravel/MySQL/REST
 
