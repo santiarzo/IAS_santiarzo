@@ -1,6 +1,8 @@
 # IAS_santiarzo
 IAS project
 
+Dorobić integrację (zmienić nazwy kolumn i struktury baz danych)
+Uzupełnić dokumentację!
 
 Raport
 
