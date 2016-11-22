@@ -1,9 +1,0 @@
-[2016-10-31 14:50:29] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Call to undefined function openssl_encrypt()' in C:\Users\t\Downloads\xampp\xampp\htdocs\provider1\vendor\laravel\framework\src\Illuminate\Encryption\Encrypter.php:66
-Stack trace:
-#0 {main}  
-[2016-10-31 14:51:51] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Call to undefined function openssl_encrypt()' in C:\Users\t\Downloads\xampp\xampp\htdocs\provider1\vendor\laravel\framework\src\Illuminate\Encryption\Encrypter.php:66
-Stack trace:
-#0 {main}  
-[2016-10-31 14:52:23] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Call to undefined function openssl_encrypt()' in C:\Users\t\Downloads\xampp\xampp\htdocs\provider1\vendor\laravel\framework\src\Illuminate\Encryption\Encrypter.php:66
-Stack trace:
-#0 {main}  
